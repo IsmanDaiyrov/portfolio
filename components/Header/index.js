@@ -95,7 +95,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                     <Button onClick={() => router.push("/blog")}>Blog</Button>
                   )}
                   {showResume && (
-                    <a href="https://drive.google.com/file/d/15n6dxg-b1Q7Yyc2KtzJue_GqxNpl1JE2/view?usp=share_link" download="Isman_Daiyrov_Resume.pdf">
+                    <a href="https://drive.google.com/file/d/1KhRiJdevuN865ezoKpMJ0_oIGnGHFh-W/view?usp=share_link" download="Isman_Daiyrov_Resume.pdf">
                       <Button classes="first:ml-1">Resume</Button>
                     </a>
                   )}
@@ -125,7 +125,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               <Button onClick={() => router.push("/blog")}>Blog</Button>
             )}
             {showResume && (
-              <a href="https://drive.google.com/file/d/15n6dxg-b1Q7Yyc2KtzJue_GqxNpl1JE2/view?usp=share_link" download="Isman_Daiyrov_Resume.pdf">
+              <a href="https://drive.google.com/file/d/1KhRiJdevuN865ezoKpMJ0_oIGnGHFh-W/view?usp=share_link" download="Isman_Daiyrov_Resume.pdf">
                 <Button classes="first:ml-1">Resume</Button>
               </a>
             )}
@@ -147,7 +147,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               <Button onClick={() => router.push("/blog")}>Blog</Button>
             )}
             {showResume && (
-              <a href="https://drive.google.com/file/d/15n6dxg-b1Q7Yyc2KtzJue_GqxNpl1JE2/view?usp=share_link" download="Isman_Daiyrov_Resume.pdf">
+              <a href="https://drive.google.com/file/d/1KhRiJdevuN865ezoKpMJ0_oIGnGHFh-W/view?usp=share_link" download="Isman_Daiyrov_Resume.pdf">
                 <Button classes="first:ml-1">Resume</Button>
               </a>
             )}
