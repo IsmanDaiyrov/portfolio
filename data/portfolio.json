@@ -1,0 +1,102 @@
+{
+    "name": "Isman Daiyrov",
+    "headerTaglineOne": "Hi, there!",
+    "headerTaglineTwo": "I'm Isman Daiyrov - a software engineer 👨🏻‍💻",
+    "headerTaglineThree": "",
+    "headerTaglineFour": "",
+    "showCursor": true,
+    "showBlog": false,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+        {
+            "id": "1",
+            "title": "GitHub",
+            "link": "https://github.com/IsmanDaiyrov"
+        },
+        {
+            "id": "5",
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/ismandaiyrov/"
+        },
+        {
+            "id": "708a7744-d4b6-4a0a-82ca-5f4547e3bc3d",
+            "title": "Gmail",
+            "link": "mailto:idaiyrov@gmail.com"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Flixter",
+            "description": "iOS app that allows users to browse movies from the The Movie Database API",
+            "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "https://github.com/IsmanDaiyrov/Flixter"
+        },
+        {
+            "id": "2",
+            "title": "Quotes App",
+            "description": "Google Developer Student Club Flutter workshop project",
+            "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "https://github.com/IsmanDaiyrov/quotes-app"
+        },
+        {
+            "id": "3",
+            "title": "Sudoku Solver",
+            "description": " A program to solve any Sudoku puzzle in under 1 second",
+            "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "https://github.com/IsmanDaiyrov/SudokuSolver"
+        },
+        {
+            "id": "4",
+            "title": "Raider One",
+            "description": "A taxi service app that is build exclusively for Texas Tech University students",
+            "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "https://github.com/IsmanDaiyrov/RaiderOne-RaiderRide-UserApp"
+        }
+    ],
+    "services": [],
+    "aboutpara": "I'm pursuing my Bachelor's degree in Computer Science with a minor in Mathematics from Texas Tech University with an expected graduation in Fall 2023. Currently, I'm looking for a full-time opportunity as a Software Engineer",
+    "resume": {
+        "tagline": "",
+        "description": "",
+        "experiences": [
+            {
+                "id": "1",
+                "dates": "May 2022 - August 2022",
+                "type": "Full Time",
+                "position": "Software Engineer Intern at Kiva",
+                "bullets": "• Performed an experiment that increased the feedback accuracy of 2.2 million monthly active users by roughly 30% by updating the feedback email URLs along with the click events using Iterable platform • Optimized the backend in Kotlin by cleaning up the deprecated subscription product by disabling its records from related services that improved the speed performance of Gradle builds, and reduced the number of integration tests by 10% • Added a non-binary gender option for searching loans by updating GraphQL endpoints with new enumerated values, and deployed into production using Docker after performing integration testing in Jenkins • Collaborated with the ML team on improving the personalized lending feature and documented trade-offs to various approaches • Worked in an Agile environment with daily stand-ups, and retrospective meetings each sprint through the Jira board"
+            },
+            {
+                "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+                "dates": "September 2021 - May 2022",
+                "type": "Part Time",
+                "position": "IT Support Technician at Texas Tech University",
+                "bullets": "• Run technical operations in ServiceNow and assisted 400+ faculty and students with software and hardware problems • Increased the customer satisfaction rate by 4.5% by troubleshooting issues on Windows, MacOS, Linux, iOS, and Android • Provided upper-level support for customer requests and incidents (400+ tickets), and assigned to appropriate Tier II groups"
+            }
+        ],
+        "education": {
+            "universityName": "Texas Tech University",
+            "universityDate": "2020 - 2023",
+            "universityPara": "Bachelor of Science in Computer Science, Minor in Mathematics (3.75 GPA)"
+        },
+        "languages": [
+            "Javascript",
+            "HTML5",
+            "CSS",
+            "Python",
+            "Go"
+        ],
+        "frameworks": [
+            "React",
+            "Typescript",
+            "NodeJs"
+        ],
+        "others": [
+            "Figma",
+            "AdobeXD",
+            "AWS"
+        ]
+    }
+}
