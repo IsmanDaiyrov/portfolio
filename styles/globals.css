@@ -12,6 +12,13 @@ body {
   @apply dark:bg-black dark:text-white;
 }
 
+.container {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 7rem;
+  box-sizing: border-box;
+}
+
 .gradient-circle {
   position: absolute;
   pointer-events: none;
