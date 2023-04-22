@@ -96,8 +96,14 @@ export default function Home() {
 
         <div className="mt-10 laptop:mt-40 p-2 laptop:p-0" ref={aboutRef}>
           <h1 className="text-2xl text-bold">About</h1>
-          <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full laptop:w-3/5">
-            {data.aboutpara}
+          <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full" style={{maxWidth: "70rem"}}>
+            I'm pursuing a Bachelor's degree in Computer Science with a minor in Mathematics from <a href="https://www.ttu.edu/" style={{ color: "#b70000" }}>Texas Tech University</a>, with an expected graduation date of Spring 2024.
+          </p>
+          <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full" style={{maxWidth: "70rem"}}>
+            In the summer of 2022, I interned as a Software Engineer at <a href="https://www.kiva.org/" style={{ color: "green" }}>Kiva</a>, a microlending platform with a mission to alleviate poverty through crowdfunding microloans. During my internship, I was part of the new deposits and existing customers team.
+          </p>
+          <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full" style={{maxWidth: "70rem"}}>
+            For more information about my experience, please visit my <a href="https://www.linkedin.com/in/kevin-chen-1b1b9b1b9/" style={{ color: "#0077b5" }}>LinkedIn</a> profile.
           </p>
         </div>
         
