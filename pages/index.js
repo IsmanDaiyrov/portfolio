@@ -95,20 +95,20 @@ export default function Home() {
         </div>
 
         <div className="mt-10 laptop:mt-40 p-2 laptop:p-0" ref={aboutRef}>
-          <h1 className="text-2xl text-bold">About</h1>
-          <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full" style={{maxWidth: "70rem"}}>
-            I'm pursuing a Bachelor's degree in Computer Science with a minor in Mathematics from <a href="https://www.ttu.edu/" style={{ color: "#2997ff" }}>Texas Tech University</a>, with an expected graduation date of Spring 2024.
+          <h1 className="text-2xl font-bold">About</h1>
+          <p className="tablet:m-10 mt-2 text-xl laptop:text-2xl w-full" style={{maxWidth: "70rem"}}>
+            I&apos;m pursuing a Bachelor&apos;s degree in Computer Science with a minor in Mathematics from <a href="https://www.ttu.edu/" style={{ color: "#2997ff" }}>Texas Tech University</a>, with an expected graduation date of Spring 2024.
           </p>
-          <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full" style={{maxWidth: "70rem"}}>
+          <p className="tablet:m-10 mt-2 text-xl laptop:text-2xl w-full" style={{maxWidth: "70rem"}}>
             In the summer of 2022, I interned as a Software Engineer at <a href="https://www.kiva.org/" style={{ color: "#2997ff" }}>Kiva</a>, a microlending platform with a mission to alleviate poverty through crowdfunding microloans. During my internship, I was part of the new deposits and existing customers team.
           </p>
-          <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full" style={{maxWidth: "70rem"}}>
+          <p className="tablet:m-10 mt-2 text-xl laptop:text-2xl w-full" style={{maxWidth: "70rem"}}>
             For more information about my experience, please visit my <a href="https://www.linkedin.com/in/kevin-chen-1b1b9b1b9/" style={{ color: "#2997ff" }}>LinkedIn</a> profile.
           </p>
         </div>
         
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
-          <h1 className="text-2xl text-bold">Projects</h1>
+          <h1 className="text-2xl font-bold">Projects</h1>
 
           <div className="mt-5 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-2 gap-4">
             {data.projects.map((project) => (
