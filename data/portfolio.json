@@ -28,31 +28,31 @@
     "projects": [
         {
             "id": "1",
-            "title": "Flixter",
-            "description": "iOS app that allows users to browse movies from the The Movie Database API",
-            "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-            "url": "https://github.com/IsmanDaiyrov/Flixter"
+            "title": "Raider Ride",
+            "description": "A taxi service app that is exclusively for Texas Tech University students. This application is designed to assist students without a vehicle to go to and from campus, and it's built with Flutter and Firebase.",
+            "imageSrc": "https://drive.google.com/u/0/uc?id=1X-lzrp4qKu_I-25445RoeLW8YHXYcUaC&export=download",
+            "url": "https://github.com/IsmanDaiyrov/RaiderOne-RaiderRide-UserApp"
         },
         {
             "id": "2",
             "title": "Quotes App",
             "description": "Google Developer Student Club Flutter workshop project",
-            "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+            "imageSrc": "https://drive.google.com/u/0/uc?id=1aJFH9xSD3D_gUg-TyGn8plSUdbj6QyCv&export=download",
             "url": "https://github.com/IsmanDaiyrov/quotes-app"
         },
         {
             "id": "3",
             "title": "Sudoku Solver",
             "description": " A program to solve any Sudoku puzzle in under 1 second",
-            "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+            "imageSrc": "https://drive.google.com/u/0/uc?id=1k--lerv0m16EqN7_MIoLSeXl42QfarVv&export=download",
             "url": "https://github.com/IsmanDaiyrov/SudokuSolver"
         },
         {
             "id": "4",
-            "title": "Raider One",
-            "description": "A taxi service app that is build exclusively for Texas Tech University students",
-            "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-            "url": "https://github.com/IsmanDaiyrov/RaiderOne-RaiderRide-UserApp"
+            "title": "Flixter",
+            "description": "iOS app that allows users to browse movies from the The Movie Database API",
+            "imageSrc": "https://drive.google.com/u/0/uc?id=1LVNO_TPQ7WOvJ-FNY_Rm5wsniiFQyDRY&export=download",
+            "url": "https://github.com/IsmanDaiyrov/Flixter"
         }
     ],
     "services": [],
