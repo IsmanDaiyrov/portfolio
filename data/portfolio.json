@@ -30,28 +30,28 @@
             "id": "1",
             "title": "Raider Ride",
             "description": "A taxi service app that is exclusively for Texas Tech University students. This application is designed to assist students without a vehicle to go to and from campus, and it's built with Flutter and Firebase.",
-            "imageSrc": "https://drive.google.com/uc?export=view&id=1No732yKkHYB9hvLfXO-DHWsNzTm9sTIW",
+            "imageSrc": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
             "url": "https://github.com/IsmanDaiyrov/RaiderOne-RaiderRide-UserApp"
         },
         {
             "id": "2",
             "title": "Quotes App",
             "description": "Google Developer Student Club Flutter workshop project",
-            "imageSrc": "https://drive.google.com/uc?export=view&id=1aJFH9xSD3D_gUg-TyGn8plSUdbj6QyCv",
+            "imageSrc": "https://images.unsplash.com/photo-1638742385167-96fc60e12f59?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80",
             "url": "https://github.com/IsmanDaiyrov/quotes-app"
         },
         {
             "id": "3",
             "title": "Sudoku Solver",
             "description": " A program to solve any Sudoku puzzle in under 1 second",
-            "imageSrc": "https://drive.google.com/uc?export=view&id=1pWq38VdYQnijOsRznDkwefkq7IJAEDmq",
+            "imageSrc": "https://images.unsplash.com/photo-1618367588411-d9a90fefa881?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
             "url": "https://github.com/IsmanDaiyrov/SudokuSolver"
         },
         {
             "id": "4",
             "title": "Flixter",
             "description": "iOS app that allows users to browse movies from the The Movie Database API",
-            "imageSrc": "https://drive.google.com/uc?export=view&id=1qTEq_yIbMe-0OwM_GqIxKroL4ArTgwQf",
+            "imageSrc": "https://images.unsplash.com/photo-1657295791913-5074c912398e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=996&q=80",
             "url": "https://github.com/IsmanDaiyrov/Flixter"
         }
     ],
