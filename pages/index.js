@@ -94,7 +94,7 @@ export default function Home() {
           <Socials className="mt-2 laptop:mt-5" />
         </div>
 
-        <div class="grid grid-cols-2 gap-8 items-center">
+        <div className="grid grid-cols-2 gap-8 items-center">
         <div className="mt-10 laptop:mt-40 p-2 laptop:p-0" ref={aboutRef}>
           <h2 className="text-3xl font-bold mb-4">About Me</h2>
           <p className="tablet:m-10 mt-2 text-xl laptop:text-2xl w-full" style={{maxWidth: "70rem"}}>
@@ -105,7 +105,7 @@ export default function Home() {
           </p>
           
         </div>
-        <div class="mt-10 laptop:mt-40 p-2 laptop:p-0 flex justify-center py-10">
+        <div className="mt-10 laptop:mt-40 p-2 laptop:p-0 flex justify-center py-10">
           <img src="https://drive.google.com/uc?export=view&id=1zeXgtSQk4lsGXKp4MOXilzjkW5-cK24v" alt="John Doe" class="rounded-lg shadow-lg w-7/12 h-auto"></img>
         </div>
         </div>
