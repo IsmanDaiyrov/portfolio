@@ -94,21 +94,24 @@ export default function Home() {
           <Socials className="mt-2 laptop:mt-5" />
         </div>
 
+        <div class="grid grid-cols-2 gap-8 items-center">
         <div className="mt-10 laptop:mt-40 p-2 laptop:p-0" ref={aboutRef}>
-          <h1 className="text-2xl font-bold">About</h1>
+          <h2 className="text-3xl font-bold mb-4">About Me</h2>
           <p className="tablet:m-10 mt-2 text-xl laptop:text-2xl w-full" style={{maxWidth: "70rem"}}>
-            I&apos;m pursuing a Bachelor&apos;s degree in Computer Science with a minor in Mathematics from <a href="https://www.ttu.edu/" style={{ color: "#2997ff" }}>Texas Tech University</a>, with an expected graduation date of Spring 2024.
+            I&apos;m pursuing a Bachelor&apos;s degree in Computer Science with a minor in Mathematics from Texas Tech University, with an expected graduation date of Spring 2024. Besides my academics, I&apos;m also serving as a Vice President of the <a href="https://www.linkedin.com/company/google-developer-student-club-ttu/mycompany/" style={{ color: "#2997ff" }}>Google Developer Student Club</a> at TTU.
           </p>
           <p className="tablet:m-10 mt-2 text-xl laptop:text-2xl w-full" style={{maxWidth: "70rem"}}>
-            In the summer of 2022, I interned as a Software Engineer at <a href="https://www.kiva.org/" style={{ color: "#2997ff" }}>Kiva</a>, a microlending platform with a mission to alleviate poverty through crowdfunding microloans. During my internship, I was part of the new deposits and existing customers team.
+            In the summer of 2022, I interned as a Software Engineer at <a href="https://www.kiva.org/" style={{ color: "#00b100" }}>Kiva</a>, a microlending platform with a mission to alleviate poverty through crowdfunding microloans. During my internship, I was part of the new deposits and existing customers team.
           </p>
-          <p className="tablet:m-10 mt-2 text-xl laptop:text-2xl w-full" style={{maxWidth: "70rem"}}>
-            For more information about my experience, please visit my <a href="https://www.linkedin.com/in/kevin-chen-1b1b9b1b9/" style={{ color: "#2997ff" }}>LinkedIn</a> profile.
-          </p>
+          
+        </div>
+        <div class="mt-10 laptop:mt-40 p-2 laptop:p-0 flex justify-center py-10">
+          <img src="https://drive.google.com/uc?export=view&id=1zeXgtSQk4lsGXKp4MOXilzjkW5-cK24v" alt="John Doe" class="rounded-lg shadow-lg w-7/12 h-auto"></img>
+        </div>
         </div>
         
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
-          <h1 className="text-2xl font-bold">Projects</h1>
+          <h2 class="text-3xl font-bold mb-4">Projects</h2>
 
           <div className="mt-5 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-2 gap-4">
             {data.projects.map((project) => (
