@@ -106,12 +106,12 @@ export default function Home() {
           
         </div>
         <div className="mt-10 laptop:mt-40 p-2 laptop:p-0 flex justify-center py-10">
-          <img src="https://drive.google.com/uc?export=view&id=1zeXgtSQk4lsGXKp4MOXilzjkW5-cK24v" alt="John Doe" class="rounded-lg shadow-lg w-7/12 h-auto"></img>
+          <img src="https://drive.google.com/uc?export=view&id=1zeXgtSQk4lsGXKp4MOXilzjkW5-cK24v" alt="John Doe" className="rounded-lg shadow-lg w-7/12 h-auto"></img>
         </div>
         </div>
         
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
-          <h2 class="text-3xl font-bold mb-4">Projects</h2>
+          <h2 className="text-3xl font-bold mb-4">Projects</h2>
 
           <div className="mt-5 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-2 gap-4">
             {data.projects.map((project) => (
